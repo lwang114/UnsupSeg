@@ -1,0 +1,16 @@
+Boundary Precision -- 83.65	Recall -- 82.23	F1 -- 82.94	Rval -- 85.39
+Boundary Precision -- 83.05	Recall -- 81.64	F1 -- 82.34	Rval -- 84.89
+Boundary Precision -- 83.65	Recall -- 82.23	F1 -- 82.94	Rval -- 85.39
+Boundary Precision -- 83.05	Recall -- 81.64	F1 -- 82.34	Rval -- 84.89
+Boundary Precision -- 83.65	Recall -- 82.23	F1 -- 82.94	Rval -- 85.39
+Boundary Precision -- 83.05	Recall -- 81.64	F1 -- 82.34	Rval -- 84.89
+Boundary Precision -- 68.88	Recall -- 64.81	F1 -- 66.78	Rval -- 71.80
+Boundary Precision -- 68.08	Recall -- 64.10	F1 -- 66.03	Rval -- 71.18
+Boundary Precision -- 0.00	Recall -- 0.00	F1 -- 0.00	Rval -- 29.29
+Boundary Precision -- 0.00	Recall -- 0.00	F1 -- 0.00	Rval -- 29.29
+Boundary Precision -- 83.76	Recall -- 83.06	F1 -- 83.41	Rval -- 85.83
+Boundary Precision -- 83.63	Recall -- 82.70	F1 -- 83.17	Rval -- 85.61
+Boundary Precision -- 82.87	Recall -- 82.88	F1 -- 82.88	Rval -- 85.38
+Boundary Precision -- 82.13	Recall -- 83.39	F1 -- 82.75	Rval -- 85.24
+Boundary Precision -- 0.00	Recall -- 0.00	F1 -- 0.00	Rval -- 29.29
+Boundary Precision -- 83.14	Recall -- 83.74	F1 -- 83.43	Rval -- 85.85
